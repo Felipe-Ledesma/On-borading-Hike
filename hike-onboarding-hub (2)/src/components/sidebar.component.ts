@@ -76,7 +76,7 @@ import { ThemeService } from '../services/theme.service';
             LE
           </div>
           <div class="flex flex-col">
-             <span class="text-xs font-semibold text-hike-text">Lourdez Ezcurra</span>
+             <span class="text-xs font-semibold text-hike-text">Lourdes Ezcurra</span>
              <span class="text-[10px] text-hike-gray">Líder de Proyecto</span>
           </div>
         </div>
